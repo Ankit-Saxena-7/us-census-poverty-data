@@ -18,7 +18,7 @@ Details on the SQL database:
  * _data_access_layer_ has all the data fetched from the Python script and is an intermediate platform
  * _data_analysis_layer_relational_ has reorganized data in a relational format for analysis
  
-Final SQL data for analysis:
+Final SQL data set for analysis:
 * The table _tblZipCodeMetaData_ in the _data_analysis_layer_relational_ schema contains the final data for analysis
 * The _zip_code_ column is the Primary Index
 * The columns suffixed with _rank_ represent poverty-related rankings based on different breakdowns
