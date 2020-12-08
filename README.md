@@ -1,4 +1,4 @@
-## US CENSUS POVERTY DATA
+### US CENSUS POVERTY DATA
 
 __Summary__:
 Extracting data from the US Census website and storing the data in a PostgreSQL database
