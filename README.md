@@ -23,7 +23,7 @@ __Final SQL data set for analysis__:
 * The _zip_code_ column is the Primary Index
 * The columns suffixed with _rank_ represent poverty-related rankings based on different breakdowns
 
-__Which tables from the US Census were slelected and why?__
+__Which tables from the US Census were slelected and why?__<br/>
 For this analysis, I have used ACS 5-year data from 2017.
 The ACS covers a broad range of topics about social, economic, demographic, and housing characteristics of the U.S. population.
 The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. 
@@ -32,18 +32,18 @@ ACS 5-year data contains data at the zip code level which is why that is the dat
 
 __Within the ACS5 data set, the following tables were extracted__:
 * Poverty status in the past 12 months of families by household type by educational attainment of householder (by zip code)
- * JUSTIFICATION: Research has consistently shown a relationship between education level and poverty
- * SOURCE: Van der Berg, S. (2008). Poverty and education. Education policy series, 10, 28.
- * Table code: B17018
+  * JUSTIFICATION: Research has consistently shown a relationship between education level and poverty
+  * SOURCE: Van der Berg, S. (2008). Poverty and education. Education policy series, 10, 28.
+  * Table code: B17018
 * Poverty status in the past 12 months of individuals by sex by work experience (by zip code)
- * JUSTIFICATION: Work experience is directly correlated with income which determines poverty
- * SOURCE: Sen, A. (2006). Conceptualizing and measuring poverty. Poverty and inequality, 30-46.
- * Table code: B17004
+  * JUSTIFICATION: Work experience is directly correlated with income which determines poverty
+  * SOURCE: Sen, A. (2006). Conceptualizing and measuring poverty. Poverty and inequality, 30-46.
+  * Table code: B17004
 * Health insurance coverage status by ratio of income to poverty level in the past 12 months by age (by zip code)
- * JUSTIFICATION: Smart insurance investments have shown to alleviate the harmful effects of poverty
- * SOURCE: Hamid, S. A., Roberts, J., & Mosley, P. (2011). Can micro health insurance reduce poverty? Evidence from Bangladesh. Journal of risk and Insurance, 78(1), 57-82.
- * Table code: C27016
+  * JUSTIFICATION: Smart insurance investments have shown to alleviate the harmful effects of poverty
+  * SOURCE: Hamid, S. A., Roberts, J., & Mosley, P. (2011). Can micro health insurance reduce poverty? Evidence from Bangladesh. Journal of risk and Insurance, 78(1), 57-82.
+  * Table code: C27016
 * Ratio of income to poverty level in the past 12 months by nativity of children under 18 years in families and subfamilies by living arrangements and nativity of parents (by zip code)
- * JUSTIFICATION: Income and poverty are closely relarted and hence their ratio is a relevant indicator of poverty-levels
- * SOURCE: Semega, J. L., Fontenot, K. R., & Kollar, M. A. (2017). Income and poverty in the United States: 2016. Current Population Reports, (P60-259).
- * Table code: B05010
+  * JUSTIFICATION: Income and poverty are closely relarted and hence their ratio is a relevant indicator of poverty-levels
+  * SOURCE: Semega, J. L., Fontenot, K. R., & Kollar, M. A. (2017). Income and poverty in the United States: 2016. Current Population Reports, (P60-259).
+  * Table code: B05010
